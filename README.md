@@ -14,6 +14,10 @@
 
 ### Steal files
 
+#### Facebook Access Token Leakage via logcat
+
+[https://youtu.be/twyL7Uxe6sk](https://youtu.be/twyL7Uxe6sk)
+
 #### Token leakage due to stolen files via unprotected Activity
 
 [https://hackerone.com/reports/288955](https://hackerone.com/reports/288955)
