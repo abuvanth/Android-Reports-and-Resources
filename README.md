@@ -27,7 +27,9 @@
 [https://hackerone.com/reports/258460](https://hackerone.com/reports/258460)
 
 #### Steal files due to unprotected exported Activity
+
 [https://hackerone.com/reports/499348](https://hackerone.com/reports/499348) - twitter
+
 [https://hackerone.com/reports/161710](https://hackerone.com/reports/161710)
 
 #### Steal files due to insecure data storage
